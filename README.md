@@ -5,4 +5,4 @@ In this work we train PID Gains using an accelerated version of ARS and further 
 Training Results of Half Cheetah in Mujoco:
 
 <img src="/Accl+ARS2.png" alt=""/>
-# My cool project and above is the logo of it
+# Blue: ARS Red: Accelerated ARS
